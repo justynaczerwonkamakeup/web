@@ -3,6 +3,15 @@ title: "Oferta Makijażu"
 description: "Profesjonalne usługi makijażowe"
 theme: minima
 ---
+
+
+<style>
+body {
+    background-color: #F4D0E1; /* Pudrowy róż */
+}
+</style>
+
+
 # !!! STRONA W BUDOWIE - WERSJA DEVELOPERSKA - IN PROGRES !!!
 # Witaj na mojej stronie!
 
